@@ -1,4 +1,4 @@
-# Freshfood Backend
+# FreshFood Backend
 
 The backend is an Express API using PostgreSQL and Sequelize. It provides the application API under `/api` and serves uploaded files under `/static`.
 
